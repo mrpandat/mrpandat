@@ -4,4 +4,4 @@
 
 <p align="center">Currently working fulltime as a DevOps Engineer in Cap-Collectif. </p>
 
-![fine](https://giphy.com/gifs/this-is-fine-2UCt7zbmsLoCXybx6t)
+![fine](https://media.giphy.com/media/2UCt7zbmsLoCXybx6t/giphy.gif)
